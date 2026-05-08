@@ -1,0 +1,8 @@
+.next/
+out/
+node_modules/
+.playwright-mcp/
+.env*
+!.env.example
+*.log
+.DS_Store
